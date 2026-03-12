@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/ferna/.claude/projects/c--Users-ferna-Downloads-fer-tracker-fer-tracker/memory/**)"
+    ]
+  }
+}
